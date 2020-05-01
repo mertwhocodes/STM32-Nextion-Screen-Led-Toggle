@@ -1,0 +1,7 @@
+main.c:43:5:main	8	static
+main.c:71:6:SystemClock_Config	72	static
+main.c:106:13:MX_USART2_UART_Init	8	static
+main.c:138:13:MX_GPIO_Init	40	static
+main.c:160:6:HAL_UART_RxCpltCallback	16	static
+main.c:164:6:HAL_UART_TxCpltCallback	16	static
+main.c:173:7:Error_Handler	8	static
